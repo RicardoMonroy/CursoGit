@@ -1,0 +1,1 @@
+A la característica le resolví un bug
